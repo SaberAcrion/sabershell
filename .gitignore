@@ -1,0 +1,8 @@
+# 中间产物
+*.o
+*.i
+
+# ELF
+/sabershell
+/main
+/a.out
